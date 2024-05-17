@@ -1,2 +1,2 @@
-# Carlos_Java_Assignment_4
-Last Java
+implement a surrender option</br>
+add and arena package (with 3 children) that affects the battle (slighty more damage or chance to hit)
